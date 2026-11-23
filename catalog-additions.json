@@ -1,0 +1,62 @@
+{
+  "updatedAt": "2026-11-23T13:00:00.000Z",
+  "source": "https://www.card-gorilla.com/sitemap-cards.xml",
+  "products": [
+    {
+      "id": "cg-3055",
+      "name": "코웨이 IBK 2.0",
+      "issuer": "IBK기업은행",
+      "cardType": "credit",
+      "availability": "listed",
+      "sourceUrl": "https://www.card-gorilla.com/card/detail/3055"
+    },
+    {
+      "id": "cg-3071",
+      "name": "BC바로 모두의그린카드",
+      "issuer": "BC 바로카드",
+      "cardType": "credit",
+      "availability": "listed",
+      "sourceUrl": "https://www.card-gorilla.com/card/detail/3071"
+    },
+    {
+      "id": "cg-3086",
+      "name": "I-포켓몬(신용)",
+      "issuer": "IBK기업은행",
+      "cardType": "credit",
+      "availability": "listed",
+      "sourceUrl": "https://www.card-gorilla.com/card/detail/3086"
+    },
+    {
+      "id": "cg-3097",
+      "name": "카드의정석2 PAY",
+      "issuer": "우리카드",
+      "cardType": "credit",
+      "availability": "listed",
+      "sourceUrl": "https://www.card-gorilla.com/card/detail/3097"
+    },
+    {
+      "id": "cg-3098",
+      "name": "메리어트 본보이 더 프레스티지™ 삼성카드",
+      "issuer": "삼성카드",
+      "cardType": "credit",
+      "availability": "listed",
+      "sourceUrl": "https://www.card-gorilla.com/card/detail/3098"
+    },
+    {
+      "id": "cg-3100",
+      "name": "Npay 우리 체크카드",
+      "issuer": "우리카드",
+      "cardType": "check",
+      "availability": "listed",
+      "sourceUrl": "https://www.card-gorilla.com/card/detail/3100"
+    },
+    {
+      "id": "cg-3101",
+      "name": "KB NEED Oil 카드",
+      "issuer": "KB국민카드",
+      "cardType": "credit",
+      "availability": "listed",
+      "sourceUrl": "https://www.card-gorilla.com/card/detail/3101"
+    }
+  ]
+}
