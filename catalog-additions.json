@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T13:00:00.000Z",
+  "updatedAt": "2026-11-24T00:00:00.000Z",
   "source": "https://www.card-gorilla.com/sitemap-cards.xml",
   "products": [
     {
@@ -57,6 +57,54 @@
       "cardType": "credit",
       "availability": "listed",
       "sourceUrl": "https://www.card-gorilla.com/card/detail/3101"
+    },
+    {
+      "id": "cg-3072",
+      "name": "iM뱅크 모두의그린카드",
+      "issuer": "iM뱅크",
+      "cardType": "credit",
+      "availability": "listed",
+      "sourceUrl": "https://www.card-gorilla.com/card/detail/3072"
+    },
+    {
+      "id": "cg-3073",
+      "name": "경남은행 모두의그린카드",
+      "issuer": "BNK경남은행",
+      "cardType": "credit",
+      "availability": "listed",
+      "sourceUrl": "https://www.card-gorilla.com/card/detail/3073"
+    },
+    {
+      "id": "cg-3074",
+      "name": "광주은행 모두의그린카드",
+      "issuer": "광주은행",
+      "cardType": "credit",
+      "availability": "listed",
+      "sourceUrl": "https://www.card-gorilla.com/card/detail/3074"
+    },
+    {
+      "id": "cg-3075",
+      "name": "수협은행 모두의그린카드",
+      "issuer": "Sh수협은행",
+      "cardType": "credit",
+      "availability": "listed",
+      "sourceUrl": "https://www.card-gorilla.com/card/detail/3075"
+    },
+    {
+      "id": "cg-3076",
+      "name": "제주은행 모두의그린카드",
+      "issuer": "제주은행",
+      "cardType": "credit",
+      "availability": "listed",
+      "sourceUrl": "https://www.card-gorilla.com/card/detail/3076"
+    },
+    {
+      "id": "cg-3099",
+      "name": "디지로카 365",
+      "issuer": "롯데카드",
+      "cardType": "credit",
+      "availability": "listed",
+      "sourceUrl": "https://www.card-gorilla.com/card/detail/3099"
     }
   ]
 }
